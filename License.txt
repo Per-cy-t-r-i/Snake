@@ -1,0 +1,3 @@
+Snake game
+Developed by: Tri Percy
+Date: 2023-07-01
